@@ -8,11 +8,11 @@ USE `zello` ;
 > Ou se preferir, utilize o arquivo: script.sql
 ## Importar o projeto
 ```
-Importar o projeto atevéz no maven
+Importar o projeto atravéz no maven
 ```
 ## Verifique as credenciais do banco no arquivo application.properties
 ```
-server.port=${port:8088
+server.port=${port:8088}
 
 spring.jpa.hibernate.ddl-auto=update
 
